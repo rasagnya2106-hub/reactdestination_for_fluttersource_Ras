@@ -1,8 +1,8 @@
 function App() {
   return (
-    <div>
-      <h1>Dummy React App</h1>
-      <p>This is a placeholder destination repo for migration testing.</p>
+    <div style={{ padding: "20px" }}>
+      <h1>Flutter → React</h1>
+      <p>Dummy React web app for migration testing.</p>
     </div>
   );
 }
